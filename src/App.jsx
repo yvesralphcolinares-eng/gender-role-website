@@ -763,78 +763,106 @@ function App() {
           </div>
 
 
-          <div className="members-grid">
+                <div className="members-grid">
 
-            <div className="member-card leader-card">
+        <div className="member-card leader-card">
 
-              <div className="member-avatar">
-                YC
-              </div>
-
-              <div>
-                <span>GROUP LEADER</span>
-                <h3>Yves Ralph Colinares</h3>
-              </div>
-
-            </div>
-
-
-            <div className="member-card">
-
-              <div className="member-avatar">
-                RA
-              </div>
-
-              <div>
-                <h3>Ronnie Amistoso</h3>
-                <span>GROUP MEMBER</span>
-              </div>
-
-            </div>
-
-
-            <div className="member-card">
-
-              <div className="member-avatar">
-                JR
-              </div>
-
-              <div>
-                <h3>John Mark Reyes</h3>
-                <span>GROUP MEMBER</span>
-              </div>
-
-            </div>
-
-
-            <div className="member-card">
-
-              <div className="member-avatar">
-                MA
-              </div>
-
-              <div>
-                <h3>Marx Adrian Eneria</h3>
-                <span>GROUP MEMBER</span>
-              </div>
-
-            </div>
-
-
-            <div className="member-card">
-
-              <div className="member-avatar">
-                RM
-              </div>
-
-              <div>
-                <h3>Red Mainke</h3>
-                <span>GROUP MEMBER</span>
-              </div>
-
-            </div>
-
+          <div className="member-avatar">
+            YC
           </div>
+
+          <div>
+            <span>GROUP LEADER</span>
+            <h3>Yves Ralph Colinares</h3>
+          </div>
+
+        </div>
+
+
+        <div className="member-card">
+
+          <div className="member-avatar">
+            RA
+          </div>
+
+          <div>
+            <h3>Ronnie Amistoso</h3>
+            <span>GROUP MEMBER</span>
+          </div>
+
+        </div>
+
+
+        <div className="member-card">
+
+          <div className="member-avatar">
+            JR
+          </div>
+
+          <div>
+            <h3>John Mark Reyes</h3>
+            <span>GROUP MEMBER</span>
+          </div>
+
+        </div>
+
+
+        <div className="member-card">
+
+          <div className="member-avatar">
+            MA
+          </div>
+
+          <div>
+            <h3>Marx Adrian Eneria</h3>
+            <span>GROUP MEMBER</span>
+          </div>
+
+        </div>
+
+
+        <div className="member-card">
+
+          <div className="member-avatar">
+            RM
+          </div>
+
+          <div>
+            <h3>Red Mainke</h3>
+            <span>GROUP MEMBER</span>
+          </div>
+
+        </div>
+
+
+        <div className="member-card">
+
+          <div className="member-avatar">
+            JD
+          </div>
+
+          <div>
+            <h3>Janecamae De Guzman</h3>
+            <span>GROUP MEMBER</span>
+          </div>
+
+        </div>
+
+
+        <div className="member-card">
+
+          <div className="member-avatar">
+            JM
+          </div>
+
+          <div>
+            <h3>Jay Anthony Malanog</h3>
+            <span>GROUP MEMBER</span>
+          </div>
+
+        </div>
+
+      </div>
 
         </section>
 

@@ -138,7 +138,7 @@ function App() {
           <div className="hero-content">
 
             <div className="eyebrow">
-              BSIT 3D • GROUP 7
+              BSIT 3D • GROUP 4
             </div>
 
             <h1>

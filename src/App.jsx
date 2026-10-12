@@ -933,7 +933,7 @@ function App() {
           <div className="footer-info">
 
             <span>BSIT 3D</span>
-            <span>GROUP 7</span>
+            <span>GROUP 4</span>
             <span>2026</span>
 
           </div>

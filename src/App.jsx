@@ -754,7 +754,7 @@ function App() {
 
           <div className="section-heading">
             <span>08 — OUR GROUP</span>
-            <h2>BSIT 3D • Group 7</h2>
+            <h2>BSIT 3D • Group 4</h2>
 
             <p>
               Gender Roles Website — created as an educational project about
